@@ -79,6 +79,7 @@ Windows
 ## 浏览器
 
 ### Chrome
+
 **【平台】**
 Windows,Linux
 
@@ -92,6 +93,7 @@ Windows,Linux
 已验证✔[Official offline Windows installer](https://www.google.cn/chrome/next-steps.html?extra=stablechannel&platform=win64&standalone=1)
 
 ### FireFox
+
 **【平台】**
 Windows,Linux
 
@@ -99,13 +101,14 @@ Windows,Linux
 真不作恶，真开源。功能性不比Chrome差，因为没有Google私货，体积也会比Chrome小一些。不过官方的Release中Linux只有32位版本，不知道对体验影响有多大。
 
 **【版本】**
-要装就装最新的
+要装就装最新的，不过别下到国行和假货了。
 
 **【获取】**
 已验证✔[Official offline Windows installer](https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0/win64/en-US/Firefox%20Setup%20128.0.exe)
 已验证✔[Official offline Linux tar](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux&lang=en-US)
 
 ### Chromium
+
 **【平台】**
 Windows,Linux
 
@@ -117,3 +120,79 @@ Windows,Linux
 
 **【获取】**
 未验证❌[GIT仓库，自己编译去](https://github.com/chromium/chromium.git)
+
+## 多媒体编辑
+
+### Blender
+
+**【平台】**
+
+Windows, Linux
+
+**【简介】**
+
+Blender原本是一个集3D建模、场景，渲染，动画，**视频编辑**等为一体的开源软件，可以做出相当Nice的CG画面。平常也能胜任比较简单的视频剪辑任务。
+
+**【版本】**
+
+要装就装最新的，注意哦别被国内奸商骗了，人家是纯免费开源的，收钱的都是SB，你付钱了那你更SB
+
+**【获取】**
+已验证✔[Official offline Windows msi V.4.2](https://www.blender.org/download/release/Blender4.2/blender-4.2.0-windows-x64.msi/)
+已验证✔[Official offline Linux tar V.4.2](https://mirrors.iu13.net/blender/release/Blender4.2/blender-4.2.0-linux-x64.tar.xz)
+
+### FFmpeg
+
+**【平台】**
+
+Any
+
+**【简介】**
+
+开源的全能王，能剪辑能转码能压制...唯一的问题是没有GUI，等我加一个Cheatsheet
+
+**【版本】**
+
+要装就装最新的。不过人家官方没有包，要么自己编译，或是去找第三方编译
+
+**【获取】**
+
+已验证✔[Windows Build By Gyan](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2024-07-18-git-fa5a605542-full_build.7z)
+
+### Adobe 全家桶
+
+
+**【平台】**
+
+Windows
+
+**【简介】**
+
+熟练PS，PR，AU，AE四件套，你就是迎检仙人。PS除了调照片外还有一个功能就是画画，板绘。
+
+**【版本】**
+
+要装就装最新的。不过新版本的AI Copilot也是要网的。
+
+**【获取】**
+
+主要还是激活的问题，懂得都懂.jpg，我就不放链接了，推荐找一些开源的解决方案
+
+### SAI/SAI2
+
+
+**【平台】**
+
+Windows
+
+**【简介】**
+
+专注于板绘的软件，超多功能和自定义笔刷，还有非常好用的以一点跟笔手感为代价换防抖的多级防手抖功能。SAI2还有透视辅助尺，香滴很
+
+**【版本】**
+
+SAI和SAI2都有使用，二者我记得并不共通
+
+**【获取】**
+
+版权问题捏，自己找捏
