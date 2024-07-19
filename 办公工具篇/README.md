@@ -217,7 +217,6 @@ Windows平台的万能播放器，虽然长得略丑但是功能极为强大，�
 
 ### VLC
 
-
 **【平台】**
 
 Windows,Linux
@@ -233,3 +232,23 @@ Windows,Linux
 **【获取】**
 
 已验证✔[Official offline Windows Installer V3.0.21](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+
+## 压缩与解压缩
+
+### 7-Zip
+
+**【平台】**
+
+Windows,Linux
+
+**【简介】**
+
+伟大，无需多言。10MB的东西薄纱一票国内的广告播放器，LZMA格式压缩率确实也可以
+
+**【版本】**
+
+要装就装最新的
+
+**【获取】**
+
+已验证✔[Official offline Windows Installer V2407](https://7-zip.org/a/7z2407-x64.exe)
