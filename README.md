@@ -16,4 +16,6 @@
 
 欢迎大家的commit！🤗
 
+注：Linux平台只找deb或者AppImage，因为你国产化系统还是Debian捏
+
 Enjoy！

@@ -161,7 +161,6 @@ Any
 
 ### Adobe 全家桶
 
-
 **【平台】**
 
 Windows
@@ -180,7 +179,6 @@ Windows
 
 ### SAI/SAI2
 
-
 **【平台】**
 
 Windows
@@ -196,3 +194,42 @@ SAI和SAI2都有使用，二者我记得并不共通
 **【获取】**
 
 版权问题捏，自己找捏
+
+## 播放器
+
+### PotPlayer
+
+**【平台】**
+
+Windows
+
+**【简介】**
+
+Windows平台的万能播放器，虽然长得略丑但是功能极为强大，硬解软解各种编码样样精通，自动加载外挂ass字幕，看番非常好使；能串流网络视频，可以整花活。
+
+**【版本】**
+
+要装就装最新的，免费软件捏
+
+**【获取】**
+
+已验证✔[Official offline Windows Installer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+
+### VLC
+
+
+**【平台】**
+
+Windows,Linux
+
+**【简介】**
+
+开源的视频播放器，功能全面且强大，并且在Windows和Linux平台都能安装
+
+**【版本】**
+
+要装就装最新的。Deb包依赖太复杂了，离线包很难弄。
+
+**【获取】**
+
+已验证✔[Official offline Windows Installer V3.0.21](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
