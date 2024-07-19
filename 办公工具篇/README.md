@@ -40,11 +40,10 @@ Window, Linux
 **【获取】**
 
 已验证✔[.com体验洋大人尊贵享受(win为在线包)](https://www.wps.com/download/)
+
 已验证✔[.cn不用不是中国人](https://platform.wps.cn/)
 
-
 ### LibreOffice
-
 
 **【平台】**
 Linux
@@ -60,3 +59,61 @@ Linux
 开源的，去官网下就完事了
 
 已验证✔[OfficialAppImg](https://appimages.libreitalia.org/)
+
+### Acrobat
+
+**【平台】**
+Windows
+
+**【简介】**
+个人认为是PDF中的的天花板，免费的OCR、方便的编辑和拼接...
+
+**【版本】**
+新的不一定好，我印象中有个老版本相当滴好用，功能很全。因为版权原因就不放盗版的离线包了
+
+**【获取】**
+已验证✔[官方在线包](https://get.adobe.com/reader/)
+
+已验证✔[DC版官方离线包](https://get.adobe.com/reader/enterprise/)
+
+## 浏览器
+
+### Chrome
+**【平台】**
+Windows,Linux
+
+**【简介】**
+个人使用最频繁的浏览器，官方的Chromium套壳，没有Google生态的情况下凭借良好的体验依然能打，相比360那一票套壳还是强多了。
+
+**【版本】**
+要装就装最新的
+
+**【获取】**
+已验证✔[Official offline Windows installer](https://www.google.cn/chrome/next-steps.html?extra=stablechannel&platform=win64&standalone=1)
+
+### FireFox
+**【平台】**
+Windows,Linux
+
+**【简介】**
+真不作恶，真开源。功能性不比Chrome差，因为没有Google私货，体积也会比Chrome小一些。不过官方的Release中Linux只有32位版本，不知道对体验影响有多大。
+
+**【版本】**
+要装就装最新的
+
+**【获取】**
+已验证✔[Official offline Windows installer](https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0/win64/en-US/Firefox%20Setup%20128.0.exe)
+已验证✔[Official offline Linux tar](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux&lang=en-US)
+
+### Chromium
+**【平台】**
+Windows,Linux
+
+**【简介】**
+超级毛坯房，Chrome的内核，国内莆田系山寨浏览器的亲爹，没实际用过，但是用来整活应该绝杀。
+
+**【版本】**
+要装就装最新的
+
+**【获取】**
+未验证❌[GIT仓库，自己编译去](https://github.com/chromium/chromium.git)
