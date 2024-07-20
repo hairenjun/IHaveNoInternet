@@ -105,6 +105,7 @@ Windows,Linux
 
 **【获取】**
 已验证✔[Official offline Windows installer](https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0/win64/en-US/Firefox%20Setup%20128.0.exe)
+
 已验证✔[Official offline Linux tar](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux&lang=en-US)
 
 ### Chromium
@@ -139,6 +140,7 @@ Blender原本是一个集3D建模、场景，渲染，动画，**视频编辑**�
 
 **【获取】**
 已验证✔[Official offline Windows msi V.4.2](https://www.blender.org/download/release/Blender4.2/blender-4.2.0-windows-x64.msi/)
+
 已验证✔[Official offline Linux tar V.4.2](https://mirrors.iu13.net/blender/release/Blender4.2/blender-4.2.0-linux-x64.tar.xz)
 
 ### FFmpeg
