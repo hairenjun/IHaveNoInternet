@@ -60,7 +60,6 @@ Windows,Linux
 
 ### PHP
 
-
 **【平台】**
 
 Windows,Linux
@@ -114,7 +113,7 @@ Linux新系统apt update后第一个装的东西
 
 **【获取】**
 
-阿巴阿巴
+依赖太多了阿巴阿巴
 
 ### Rust Tool chain
 
@@ -155,3 +154,27 @@ Google开发的一个语言，有梗说Google为了照顾不会写C++的员工�
 已验证✔[Official offline Windows Installer V1.22.5 ](https://golang.google.cn/dl/go1.22.5.windows-amd64.msi)
 
 已验证✔[Official offline Linux tar ](https://golang.google.cn/dl/go1.22.5.linux-amd64.tar.gz)
+
+## IDE与代码编辑器
+
+### Visual Studio Code
+
+**【平台】**
+
+Windows,Linux
+
+**【简介】**
+
+严格意义来说只是个文本编辑器，但是通过插件和脚本，能干相当多的事情，比如和conda和Pylance结合起来当Python IDE，和Cmake结合起来替代Visual Studio做一些轻量的C++开发...值得单开一章讲一讲。
+
+**【版本】**
+
+要装就装最新的
+
+**【获取】**
+
+已验证✔[Official offline Windows Installer V1.91.1 ](https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1e16e1e6214d7c44d078b1f0607b2388f29d729/VSCodeUserSetup-x64-1.91.1.exe)
+
+已验证✔[Official offline Linux deb package V1.91.1](https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1e16e1e6214d7c44d078b1f0607b2388f29d729/code_1.91.1-1720564633_amd64.deb)
+
+已验证✔[Official offline Linux tar source 1720562902](https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1e16e1e6214d7c44d078b1f0607b2388f29d729/code-stable-x64-1720562902.tar.gz)

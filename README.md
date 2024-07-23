@@ -14,7 +14,7 @@
 
 如果可能的话，会在说明中加上在哪搞到这些好东西😋
 
-欢迎大家的commit！🤗
+欢迎大佬的commit！🤗
 
 注：Linux平台只找deb或者AppImage，因为你国产化系统还是Debian捏
 
